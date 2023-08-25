@@ -1,0 +1,33 @@
+Ansible for DevOps:
+Introduction :
+	Ansible is a simple, powerful, and agentless tool that simplifies the process of IT automation and expedites DevOps efforts. 
+	Ansible works to help you automate and configure your infrastructure to save time and increase productivity. 
+	It’s straightforward, secure, and powerful, making it an easy tool to learn and implement within your organization.
+
+	Meaning of Ansibles:
+	Ansible is an open-source orchestration and automation tool used for software provisioning, configuration management, and application deployment.
+
+	It was first developed in 2012 by Michael DeHaan, the creator of Cobbler and Func. 
+	Now the Ansible was acquired by RedHat, Inc. ( in 2015)
+	It will runs on Windows and Unix-like operating systems, providing infrastructure as code. 
+	It has its own declarative programming language for management and system configuration. 
+	It can connect with cloud environments like Amazon AWS and Microsoft Azure to help you manage and automate your infrastructure and code deployment.
+	It is simple to install, connects easily to clients, and contains many features.
+	It’s push-based and connects to clients via SSH, so it doesn’t require an agent on the client.
+	By pushing modules to clients, the modules on the client execute locally and the outputs are pushed back to the Ansible server. 
+	It uses SSH-Keys to simplify the process of connecting the clients. And
+	Hostnames, IP addresses, and SSH ports are stored in inventory files. Once an inventory file is created and populated, Ansible can use it.
+    Benefits of Ansible for DevOps :
+	Open-source, free to use
+	Doesn’t require special system administration skills for installation and use
+	Highly customizable
+	Consistent and lightweight
+	Very secure due to agentless abilities and use of OpenSSH security
+	Comprehensive documentation
+	Smooth learning curve
+	Built with Python, one of the fastest and most robust programming languages
+	Version control and configuration management
+	Reliable deployments
+
+
+
