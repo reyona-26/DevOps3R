@@ -1,4 +1,4 @@
-What is Git?
+#What is Git?
 Git is a DevOps tool that is used as a version-control system for tracking the changes happening in system files and coordinating the work on those files among a group of people. 
 In the software development field, Git is used in source code management and for tracking the changes made in any file.
 •	Git is a distributed version control and source code management system with an emphasis on speed.
